@@ -4,7 +4,7 @@
 
 Usually active around 2 ~ 3 a.m. UTC.
 
-You can find me on Matrix @gzgavinzhao:matrix.org if you need to talk to me directly.
+You can find me on Matrix `@gzgavinzhao:matrix.org` if you need to talk to me directly.
 
 <!--
 **GZGavinZhao/GZGavinZhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
