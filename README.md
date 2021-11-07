@@ -2,7 +2,7 @@
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
 
-Usually active around 2 ~ 3 a.m. UTC.
+Usually active around 3 ~ 4 a.m. UTC.
 
 You can find me on Matrix `@gzgavinzhao:matrix.org` if you need to talk to me directly.
 
