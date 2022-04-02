@@ -8,6 +8,8 @@ Usually active around 3 ~ 4 a.m. UTC.
 
 You can find me on Matrix `@gzgavinzhao:matrix.org` if you need to talk to me directly.
 
+![WakaTime](https://wakatime.com/share/@a9de298d-998e-43df-8dbf-263c7d46b9cb/5dc8e02d-6994-4939-9acf-953bb870ae1e.png)
+
 <!--
 **GZGavinZhao/GZGavinZhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
