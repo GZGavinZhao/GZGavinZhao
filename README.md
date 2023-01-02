@@ -8,6 +8,8 @@ Usually active around 3 ~ 4 a.m. UTC.
 
 You can find me on Matrix `@gzgavinzhao:matrix.org` if you need to talk to me directly.
 
+If you see Python in the chart below, in almost all cases it's probably just Starlark (for Bazel).
+
 [![WakaTime](https://wakatime.com/share/@a9de298d-998e-43df-8dbf-263c7d46b9cb/c1cc448d-ebb8-4f21-bf97-9eb1749d72b5.png)](https://wakatime.com)
 
 <!--
