@@ -10,4 +10,6 @@ You can find me on Matrix `@gzgavinzhao:matrix.org` if you need to talk to me di
 
 Note: if you see Python in the chart below, in almost all cases it's probably just Starlark (for Bazel).
 
+A good chart for me should be a healthy balance between C++, Dart, and Haskell, with some occasional Java, D and Starlark sprinkled here and there.
+
 [![WakaTime](https://wakatime.com/share/@a9de298d-998e-43df-8dbf-263c7d46b9cb/c1cc448d-ebb8-4f21-bf97-9eb1749d72b5.png)](https://wakatime.com)
