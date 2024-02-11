@@ -14,4 +14,8 @@ Note: if you see Python in the chart below, in almost all cases it's probably ju
 
 A good chart for me should be a healthy balance between C++, Dart, and Haskell, with some occasional Java, D and Starlark sprinkled here and there.
 
+If a large portion of the chart is taken up by Typst or LaTeX, this usually
+means I'm busy with my studies and it may take longer than usual
+for me to reply to messages.
+
 [![WakaTime](https://wakatime.com/share/@a9de298d-998e-43df-8dbf-263c7d46b9cb/c1cc448d-ebb8-4f21-bf97-9eb1749d72b5.png)](https://wakatime.com)
